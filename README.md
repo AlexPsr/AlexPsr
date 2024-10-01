@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋 I'm Alex
 
-<!--
-**AlexPsr/AlexPsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+I'm a Computer Science student with a strong interest in **Cybersecurity** 🛡️.
 
-Here are some ideas to get you started:
+- 💻 I’m currently learning cybersecurity through [TryHackMe](https://tryhackme.com/) and various courses.
+- 🎯 My goal is to sharpen my skills and eventually become a Cybersecurity expert.
+- 🛠️ Besides cybersecurity, I also enjoy coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills I'm Working On:
+- **Python**
+- **Networking**
+- **Learn to build tools for Cybersecurity**
+
+## 🧠 Always Learning
+I regularly challenge myself with new rooms on TryHackMe.
+
+![TryHackMe Logo](https://assets.tryhackme.com/img/THMlogo.png)
+
+## 🛠️ Tools of the Trade:
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo)
+![C](https://img.shields.io/badge/-C_programming-333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C%2B%2B_programming-333?style=flat&logo=cplusplus)
+
+
+## ⚡ Fun Facts:
+- I love tackling challenges on **TryHackMe** and CTFs (Capture the Flag)
+
+![Hacker Gif](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+
+## 🔗 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/alexandros-psarras-csfield/) 
