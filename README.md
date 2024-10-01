@@ -3,7 +3,7 @@
 ## 🌟 About Me
 I'm a Computer Science student with a strong interest in **Cybersecurity** 🛡️.
 
-- 💻 I’m currently learning cybersecurity through TryHackMe as [DarkAnge1](https://tryhackme.com/p/DarkAnge1) and various courses.
+- 💻 I’m currently learning cybersecurity through [TryHackMe](https://tryhackme.com) and various other ways.
 - 🎯 My goal is to sharpen my skills and eventually become a Cybersecurity expert.
 - 🛠️ Besides cybersecurity, I also enjoy coding.
 
