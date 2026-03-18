@@ -26,11 +26,5 @@ I regularly challenge myself with new rooms on TryHackMe.
 ![C](https://img.shields.io/badge/-C_programming-333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B_programming-333?style=flat&logo=cplusplus)
 
-
-## ⚡ Fun Facts:
-- I love tackling challenges on **TryHackMe** and CTFs (Capture the Flag)
-
-![Hacker Gif](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
-
 ## 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/alexandros-psarras-csfield/) 
